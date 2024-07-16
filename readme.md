@@ -7,3 +7,13 @@ The goal of RAG is to take information and pass it to LLM so it can generate out
 why RAG?  
 the main goal of RAG is to improve the outputs 
 1. prevent hallucinations -  LLM are good at generating good looking text but might not be factual.
+2.  work with custom data 
+
+
+Uses 
+1. Customer support Q&A chat 
+2. Email Chain analysis 
+3. Textbook q&a 
+
+
+why local --> privacy,speed,cost
