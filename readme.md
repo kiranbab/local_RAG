@@ -17,3 +17,11 @@ Uses
 
 
 why local --> privacy,speed,cost
+
+process 
+1. Open pdf docuement 
+2. format the text of pdf ready for an embedding model
+3. embed all chunks of text in note and turn them into embedding which we can store for later 
+4. Build retrival system that uses vector search to find relevant chunk of text based on query 
+4. Create prompt that incorporates the retrived peices of text
+5. Generate answer to query base on passage of textbook with lllm
